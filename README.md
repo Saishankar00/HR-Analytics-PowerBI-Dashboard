@@ -1,5 +1,3 @@
-# HR-Analytics-PowerBI-Dashboard
-Interactive HR Analytics Dashboard built using Power BI to analyze employee attrition, workforce demographics, salary trends, and key HR metrics using DAX, Power Query, and data visualization.
 # HR Analytics Dashboard using Power BI
 
 ## Project Overview
@@ -75,6 +73,14 @@ This project presents an interactive HR Analytics Dashboard developed using Micr
 - HR Analytics Dashboard.pbix
 
 ---
+
+## 📁 Repository Structure
+
+- 📊 HR.pbix – Power BI Dashboard
+- 🖼️ HR_Analytics_Dashboard.png – Dashboard Preview
+- 📄 WA_Fn-UseC_-HR-Employee-Attrition.csv – Dataset
+- 📘 README.md – Project Documentation
+- 📜 LICENSE – MIT License
 
 ## Author
 
