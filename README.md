@@ -8,9 +8,10 @@ This project presents an interactive HR Analytics Dashboard developed using Micr
 
 ---
 
-## Dashboard Preview
 
-()
+## 📷 Dashboard Preview
+
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
